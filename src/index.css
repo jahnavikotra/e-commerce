@@ -1,7 +1,14 @@
+*{
+  margin: 0;
+}
  body{
-    background-color: aqua;
- }
+   margin: 0;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid sans', 'Helvetica Neue', sans-serif;
+   -webkit-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   font-family: 'poppins';
+}
 
- .text{
-   
- }
+code{
+   font-family: source-code-pro, menlo, monaco, consolas, 'courier New', monospace;
+}
