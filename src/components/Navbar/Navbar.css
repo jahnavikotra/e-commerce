@@ -3,6 +3,11 @@
     justify-content: space-around;
     padding: 16px;
     box-shadow: 0 1px 3px -2px black;
+    top: 0;
+    width: 100%;
+    background: white;
+    z-index: 1;
+    transition: background-color 0.3s;
 }
 .nav-logo{
     display: flex;
